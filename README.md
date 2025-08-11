@@ -13,5 +13,5 @@ HTML5
 CSS3 (Flexbox, Grid, Responsive Design)
 
 🚀 Live Preview
-file:(http://127.0.0.1:5500/info.html)
+file:(https://piyushthakur133.github.io/Portfolio-info-repo/)
 
