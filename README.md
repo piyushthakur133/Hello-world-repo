@@ -13,5 +13,5 @@ HTML5
 CSS3 (Flexbox, Grid, Responsive Design)
 
 🚀 Live Preview
-file:///C:/Users/piyus/OneDrive/Desktop/index.html
+file:(http://127.0.0.1:5500/info.html)
 
